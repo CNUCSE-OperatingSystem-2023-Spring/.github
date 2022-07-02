@@ -1,4 +1,4 @@
-<img align="center" src="./MiniOS Project.png" />
+![](./MiniOS%20Project.png)
 
 
 
