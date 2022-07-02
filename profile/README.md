@@ -1,4 +1,4 @@
-![](/profile/MiniOSProject.png)
+![](/profile/logo.png)
 
 ## 환?영합니다
 
