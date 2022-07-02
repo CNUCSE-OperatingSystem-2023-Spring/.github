@@ -1,4 +1,4 @@
-![](MiniOSProject.png)
+![](/profile/MiniOSProject.png)
 
 
 
