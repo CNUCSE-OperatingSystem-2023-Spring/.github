@@ -4,13 +4,11 @@
 
 ## 필수 사전지식 (혹은 따로 공부해야 할 것들)
 
-### x86-64 Assembly
-
 ### C Programming
 
 ### Data Structures
 
-### Linux, GCC, Make
+### Linux, Shell, GCC, Make
 
 
 ## Attributes
