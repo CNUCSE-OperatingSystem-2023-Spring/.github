@@ -14,7 +14,7 @@
 
 ### Linux, Shell
 
-리눅스와 쉘을 사용할 수 있어야 합니다. 이 강의에서 코드 작성을 제외한 거의 모든 지시사항은 쉘로 처리 되도록 작성되었습니다.
+리눅스와 쉘을 사용할 수 있어야 합니다. 이 강의에서 코드 작성을 제외한 거의 모든 지시사항은 쉘로 처리 되도록 작성되었습니다. 강의 자료에서는 Ubuntu를 사용할 예정이지만, 학생 개인의 능력이나 기호에 따라 다른 리눅스 배포판을 사용할 수도 있습니다.
 
 ## Attributes
 * Logo was generated from Kemonogen, by [cstria0106](https://cstria0106.github.io/kemonogen/)
