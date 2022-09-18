@@ -38,7 +38,7 @@ Make, GCC, Binutils 등 C 소스코드를 실행 가능한 프로그램을 만�
 
 ### Several Operating System Concepts
 
-이론 시간에 배운 운영체제 이론들을 cnuos에 실제로 옮겨보며 체득해봅니다. 이 과정은 분명 고통스럽겠지만, 무사히 넘긴다면 여러분은 진정 컴퓨터를 전공했다고 자신할 수 있을 것입니다. 
+이론 시간에 배운 운영체제 이론들을 cnuos에 실제로 옮겨보며 체득해봅니다. 이 과정은 분명 고통스럽겠지만, 무사히 넘긴다면 여러분은 진정 컴퓨터를 전공했다고 자신할 수 있을 것입니다. 물론 운영체제를 하나 만들었다는 자부심은 덤입니다.
 
 ## Attributes
 * Logo was generated from Kemonogen, by [cstria0106](https://cstria0106.github.io/kemonogen/)
